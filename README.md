@@ -14,10 +14,10 @@ brew install ffmpeg
 
 4.run the python file
 
-python3 "convert single mp4.py" 
+python3 convert single mp4.py
 
 to convert mp3 to transcript 
 
 import whisper in terminal
 
- python3 singletranscribe.py"
+python3 singletranscribe.py
