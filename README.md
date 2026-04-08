@@ -20,4 +20,4 @@ to convert mp3 to transcript
 
 import whisper in terminal
 
- python3 "singletranscribe.py"
+ python3 singletranscribe.py"
