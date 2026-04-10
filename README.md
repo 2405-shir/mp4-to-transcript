@@ -21,3 +21,5 @@ to convert mp3 to transcript
 import whisper in terminal
 
 python3 singletranscribe.py
+
+or you could just do the transcribe.py file and comvert mp4 directly into transcript if you dont want the mp3 file
